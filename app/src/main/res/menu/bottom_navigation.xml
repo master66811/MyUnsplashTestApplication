@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/ic_photo_album_black_24dp"
+        android:title="Фото" />
+    <item
+        android:id="@+id/nav_photo"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="Избранное" />
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="Инфо" />
+</menu>
